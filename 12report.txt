@@ -1,0 +1,15 @@
+Sun Jan 21 14:41:20 PST 2024
+user: rogerxu00
+home: /Users/rogerxu00
+shell: /bin/bash
+pwd: /Users/rogerxu00/Code/mcb185_homework
+path: /usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
+Darwin Rogers-MacBook.local 23.1.0 Darwin Kernel Version 23.1.0: Mon Oct  9 21:27:24 PDT 2023; root:xnu-10002.41.9~6/RELEASE_ARM64_T6000 arm64
+Python 3.9.6
+/Users/rogerxu00/Code
+/Users/rogerxu00/Code/mcb185_homework
+/Users/rogerxu00/Code/mcb185_homework/stuff
+/Users/rogerxu00/Code/mcb185_homework/.git
+/Users/rogerxu00/Code/MCB185
+/Users/rogerxu00/Code/MCB185/.git
+/Users/rogerxu00/Code/MCB185/data
