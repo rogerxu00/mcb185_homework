@@ -8,4 +8,4 @@ gunzip -c ~/Code/MCB185/data/dictionary.gz | grep "z" | grep -v -E "[^anoigr]+" 
 
 gunzip -c ~/Code/MCB185/data/jaspar2024_core.transfac.gz | grep -v "^#" | cut -f 3 | sort | uniq -c | sort -n | grep "tax_group"
 
-echo "Utah and Akshat "
+echo "Yutong and Akshat"
