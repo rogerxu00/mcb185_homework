@@ -4,12 +4,14 @@ import math
 
 def hydropathy(AA):
 	if AA == I:
-		print('4.5')
+		I = 4.5
+		return I
 	
-	if AA == (B, J, O, U, X, Z):
-		print('none')
+	else AA == (B, J, O, U, X, Z):
+		print ('none')
 
 print(hydropathy(I))
+print(hydropathy(B))
 
 	V = 4.2
 	L = 3.8
