@@ -25,5 +25,5 @@ def entropy(a, t, c, g):
 			S = S + (G * math.log2(G))
 		return abs(S)
 		
-print (entropy(4, 5, 6, 7))
-print (entropy(5, 0, 5, 6))
+print(entropy(4, 5, 6, 7))
+print(entropy(5, 0, 5, 6))
