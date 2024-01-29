@@ -3,7 +3,7 @@
 import math
 import sys
 
-def nucleotideshannon(a, t, c, g):
+def entropy(a, t, c, g):
 	if a < 0: sys.exit('error: a cannot be a negative number')
 	if t < 0: sys.exit('error: t cannot be a negative number')
 	if c < 0: sys.exit('error: c cannot be a negative number')
@@ -16,7 +16,7 @@ def nucleotideshannon(a, t, c, g):
 		G	= g / (a + t + c + g)
 	
 		if a != 0:
-			S = 	(A * math.log2(A))
+			S =     (A * math.log2(A))
 		if t != 0:
 			S = S + (T * math.log2(T))
 		if c != 0:
@@ -25,5 +25,5 @@ def nucleotideshannon(a, t, c, g):
 			S = S + (G * math.log2(G))
 		return abs(S)
 		
-print (nucleotideshannon(4, 5, 6, 7))
-print (nucleotideshannon(5, 0, 5, 6))
+print (entropy(4, 5, 6, 7))
+print (entropy(5, 0, 5, 6))
