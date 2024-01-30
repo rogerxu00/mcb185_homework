@@ -3,9 +3,10 @@
 import math
 
 def quadratic(a, b, c):
-	x1 = (-b - math.sqrt(b**2 - 4 * a * c)) / (2 * a)
-	x2 = (-b + math.sqrt(b**2 - 4 * a * c)) / (2 * a)
-	return x1, x2
-	
+	det = (b**2 - 4 * a * c)
+
+	if det >= 0: return -b + math.sqrt(det) / 2 * a, -b - math.sqrt(det) / 2 * a
+	if det < 0: return 'no real root', 'no real root'
+
 print(quadratic(1, -8, 12))
-print(quadratic(2, 16, -24))
+print(quadratic(1, -2, 18))

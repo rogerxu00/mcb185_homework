@@ -4,7 +4,7 @@ import math
 
 print('hello, again')
 
-print('test')
+print('test numbers')
 print(1.5e-2)
 print(1 + 1)
 print("1" + "1")
