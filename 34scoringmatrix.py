@@ -2,7 +2,7 @@
 
 nts = 'ACGT'
 
-print('  A  C  G  T ')
+print('A  C  G  T')
 
 for nt1 in nts:
 	print(nt1, end=' ')
