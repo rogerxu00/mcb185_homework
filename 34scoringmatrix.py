@@ -1,8 +1,12 @@
 # 34scoringmatrix.py by Roger Xu
 
 nts = 'ACGT'
+print(' ', end='')
 
-print('A  C  G  T')
+for nt in nts:
+	print('  ', end='')
+	print(nt, end='')
+print()
 
 for nt1 in nts:
 	print(nt1, end=' ')
@@ -10,5 +14,3 @@ for nt1 in nts:
 		if nt1 == nt2: print('+1', end=' ')
 		else: print('-1', end=' ')
 	print()
-
-# ask about spacing for matrix
