@@ -1,5 +1,12 @@
 # 46savingthrows.py by Roger Xu
 
+"""
+Theoretical values:
+DC      norm    adv     dis
+5       0.795   0.960   0.638
+10      0.549   0.799   0.307
+15      0.295   0.502   0.084
+"""
 import random
 
 def roll_normal():
@@ -21,7 +28,7 @@ def roll_disadvantage():
 	else:
 		return r2
 
-trials = 1000
+trials = 10000
 for dc in range(5, 16, 5):
 	print(dc, end='\t')
 	success = 0
@@ -31,7 +38,7 @@ for dc in range(5, 16, 5):
 			success += 1
 	print(success / trials)
 
-trials = 1000
+trials = 10000
 for dc in range(5, 16, 5):
 	print(dc, end='\t')
 	success = 0
@@ -41,7 +48,7 @@ for dc in range(5, 16, 5):
 			success += 1
 	print(success / trials)
 
-trials = 1000
+trials = 10000
 for dc in range(5, 16, 5):
 	print(dc, end='\t')
 	success = 0

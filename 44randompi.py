@@ -9,8 +9,8 @@ def montecarlo_pi():
 	totalvalues = 0
 	
 	while True:
-		x = random.randint(0, 1)
-		y = random.randint(0, 1)
+		x = random.random()
+		y = random.random()
 		distance = math.sqrt(x**2 + y**2)
 		
 		if distance <= 1:
@@ -22,5 +22,3 @@ def montecarlo_pi():
 		print(4 * pi)
 
 montecarlo_pi()
-
-# work in progress, need better approximation
