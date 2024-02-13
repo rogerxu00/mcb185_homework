@@ -7,6 +7,7 @@ DC      norm    adv     dis
 10      0.549   0.799   0.307
 15      0.295   0.502   0.084
 """
+
 import random
 
 def roll_normal():
