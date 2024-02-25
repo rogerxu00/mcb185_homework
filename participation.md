@@ -16,8 +16,8 @@ Participation
 
 | U | AC | VP | AQ | OC | SH | SA | CA | OA | Tot | Notes
 |:-:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:---:|:--------
-| 5 |  2 |    |    |    |    |    |    |    |     |
-| 6 |    |    |    |    |    |    |    |    |     |
+| 5 |  4 |  2 |  1 |    |    |  1 |    |  ? |  8  | 1
+| 6 |  4 |    |    |  2 |    |  1 |  1 |  ? |  8  | 2
 | 7 |    |    |    |    |    |    |    |    |     |
 | 8 |    |    |    |    |    |    |    |    |     |
 | 8 |    |    |    |    |    |    |    |    |     |
@@ -25,4 +25,5 @@ Participation
 
 Notes:
 
-1. ...
+1. Attended lilith office hour on 02-18-24
+2. Helped classmate in class on 02-22-24
