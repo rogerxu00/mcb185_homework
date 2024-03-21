@@ -1,4 +1,4 @@
-# 64profinder.py by Roger Xu
+# 64profinder.py by Roger Xu and Yutong Ji
 
 import dogma
 import mcb185
