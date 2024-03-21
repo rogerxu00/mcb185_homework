@@ -18,11 +18,13 @@ Participation
 |:-:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:---:|:--------
 | 5 |  4 |  2 |  1 |    |    |  1 |    |  ? |  8  | 1
 | 6 |  4 |    |    |  4 |    |  1 |  1 |  ? |  10 | 2
-| 7 |  2 |    |    |    |    |    |    |    |     |
-| 8 |    |    |    |    |    |    |    |    |     |
-| 9 |    |    |    |    |    |    |    |    |     |
+| 7 |  4 |    |    |  2 |    |  1 |    |    |  7  |
+| 8 |  2 |    |    |  2 |    |  1 |  1 |  ? |  6  | 3
+| 9 |  2 |    |    |  2 |    |  1 |    |  ? |  5  | 4
 
 Notes:
 
 1. Attended lilith office hour on 02-18-24
 2. Helped classmate in class on 02-22-24
+3. Worked on problems with classmate on 03-05-24
+4. Solved homework problems with classmate through discord on 03-20-24
