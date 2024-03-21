@@ -16,4 +16,3 @@ print('dusting with', arg.file, arg.size, arg.entropy)
 for defline, seq in mcb185.read_fasta(arg.file):
 	print(defline, seq)
 
-echo 'export PATH=$PATH:$HOME/Code/bin' >> ~/.bashrc
